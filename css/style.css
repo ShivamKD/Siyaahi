@@ -1007,36 +1007,12 @@ div#preloader {
 }
 
 .work-left-text {
-  background: rgba(0, 0, 0, 0.8) none repeat scroll 0 0;
-  float: left;
-  height: 100%;
-  overflow: hidden;
-  padding: 71px 0;
+  background: #3EC1D5 none repeat scroll 0 0;
+}
+
+.work-left-text {
   width: 50%;
-  position: absolute;
-  left: 0;
-  top: 0;
 }
-
-.work-left-text h2 {
-  color: #fff;
-  text-transform: uppercase;
-  font-size: 24px;
-}
-
-.work-left-text h5 {
-  color: #fff;
-  font-size: 18px;
-  font-weight: 700;
-  line-height: 34px;
-  text-transform: uppercase;
-}
-
-.work-left-text .sus-btn {
-  margin-left: 0;
-  margin-top: 20px;
-}
-
 
 .work-right-text {
   background: rgba(0, 0, 0, 0.8) none repeat scroll 0 0;
