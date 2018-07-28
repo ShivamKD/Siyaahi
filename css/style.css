@@ -1061,7 +1061,7 @@ div#preloader {
 ----------------------------------------*/
 
 .register{
-  background: url(/Siyaahi/img/background/bg1.jpg);
+  background: url(../img/background/bg1.jpg);
   overflow: hidden;
   background-repeat: no-repeat;
   background-size: cover;
