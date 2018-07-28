@@ -1007,11 +1007,12 @@ div#preloader {
 }
 
 .work-left-text {
-  background: #3EC1D5 none repeat scroll 0 0;
+  background: black none repeat scroll 0 0;
 }
 
 .work-left-text {
-  width: 50%;
+  width: 0%;
+  height: 20%;
 }
 
 .work-right-text {
@@ -1020,7 +1021,7 @@ div#preloader {
   height: 100%;
   overflow: hidden;
   padding: 71px 0;
-  width: 50%;
+  width: 99%;
   position: absolute;
   right: 0;
   top: 0;
@@ -1049,13 +1050,39 @@ div#preloader {
   display: block;
   float: left;
   overflow: hidden;
-  width: 33.33%;
+  width: 1%;
 }
 
 .single-awesome-4 .add-actions {
   padding: 10px 20px;
 }
+/*----------------------------------------
+ Register
+----------------------------------------*/
 
+.register{
+  background: url(../img/background/bg1.jpg);
+  overflow: hidden;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top center;
+  background-attachment: fixed;
+  width: 100%;
+  height: auto;
+  position: relative;
+}
+
+.label{
+    float: left;
+    width: 30%;
+    color: #fff;
+    
+}
+
+.in{
+    float: right;
+    width: 70%;
+}
 /*----------------------------------------
  10.Portfolio Area Css
 ----------------------------------------*/
